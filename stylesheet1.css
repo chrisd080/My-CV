@@ -11,8 +11,12 @@ body {
 }
 
 .navigation-menu-button {
-    padding: 30px;
-    position: center;
+       top:11%;
+       left:55%;
+       width:100px;
+       height:40px;
+       position: absolute;
+       z-index: 2;
     border-style: solid;
     border-width: 3px;
     border-color: rgba(255, 173, 50, 0.517);
