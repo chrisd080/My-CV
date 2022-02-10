@@ -11,8 +11,9 @@ body {
 }
 
 .navigation-menu-button {
-       top:110px;
-       left:55px;
+       top:11%;
+       margin: auto;
+       left:55%;
        width:100px;
        height:40px;
     border-style: solid;
