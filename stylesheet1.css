@@ -10,10 +10,10 @@ body {
     background-attachment: fixed;
 }
 
-
 .navigation-menu-button {
-    margin-left: 400px;
-    margin-top: 400px;
+    padding: 15px;
+    margin-left: 320px;
+    margin-top: 200px;
     border-style: solid;
     border-width: 3px;
     border-color: rgba(255, 173, 50, 0.517);
@@ -24,7 +24,6 @@ body {
     font-variant: small-caps;
     font-size: 16px;
     color: #D3D3D3;
-}
 
 .navigation-menu-button:hover {
     color:rgba(255, 173, 50, 0.517);
