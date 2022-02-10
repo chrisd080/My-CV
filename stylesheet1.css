@@ -12,8 +12,8 @@ body {
 
 .navigation-menu-button {
     
-     margin-left: 121px;
-    margin-top: 1px;
+     margin-left:-121px;
+    margin-top: -19px;
     width: 100px;
     height: 40px;   
     background: transparent;
