@@ -15,7 +15,6 @@ body {
        margin-left:55px;
        width:100px;
        height:40px;
-       z-index: 2;
     border-style: solid;
     border-width: 3px;
     border-color: rgba(255, 173, 50, 0.517);
