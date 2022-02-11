@@ -222,20 +222,18 @@
 		color: #D3D3D3;
 	}
 
-	.navigation-menu-button {
-		border-style: solid;
-		border-width: 3px;
-		border-color: rgba(255, 173, 50, 0.517);
-		background-color: transparent;
-		outline: none;
-		cursor: pointer;
-		font-family: Arial, Helvetica, sans-serif;
-		font-variant: small-caps;
-		font-size: 16px;
-		color: #D3D3D3;
-	}
+	.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 
-	.navigation-menu-button:hover {
+	.button:hover {
 		color:rgba(255, 173, 50, 0.517);
 	}
 
