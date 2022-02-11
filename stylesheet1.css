@@ -10,10 +10,7 @@ body {
     background-attachment: fixed;
 }
 
-.navigation-menu-button {
-    
-    width: 100px;
-    height: 40px;   
+.navigation-menu-button { 
     background: transparent;
     border-style: solid;
     border-color: rgba(255, 173, 50, 0.517);
