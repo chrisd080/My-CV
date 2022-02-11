@@ -18,7 +18,7 @@ body {
 
 .navigation-menu {
     position: relative;
-    margin-left: -120px;
+    margin-left: -150px;
     margin-top: 200px;
     margin-bottom: 25px;
     text-align: center;
@@ -45,7 +45,7 @@ body {
 
 .navigation-menu1 {
     position: relative;
-    margin-left: 200px;
+    margin-left: 150px;
     margin-top: -82px;
     text-align: center;
     padding: 20px;
