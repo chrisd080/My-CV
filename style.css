@@ -1,0 +1,79 @@
+
+
+
+
+/*Body*/
+
+body {
+    background-image: url("yessir.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    padding: 100px 100px 100px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    color: #A3A3A3;
+    font-variant: small-caps;
+}
+
+.navigation-menu {
+    position: relative;
+    margin-left: -120px;
+    margin-top: 200px;
+    margin-bottom: 25px;
+    text-align: center;
+    padding: 20px;
+}
+
+.navigation-menu-button {
+    padding: 15px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(255, 173, 50, 0.517);
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-size: 16px;
+    color: #D3D3D3;
+}
+
+.navigation-menu-button:hover {
+    color:rgba(255, 173, 50, 0.517);
+}
+
+.navigation-menu1 {
+    position: relative;
+    margin-left: 200px;
+    margin-top: -82px;
+    text-align: center;
+    padding: 20px;
+}
+
+.navigation-menu-button1 {
+    padding: 15px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(255, 173, 50, 0.517);
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-size: 16px;
+    color: #D3D3D3;
+}
+
+.navigation-menu-button1:hover {
+    color:rgba(255, 173, 50, 0.517);
+}
+
+
+
+
+
+
+
+
+
