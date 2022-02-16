@@ -11,7 +11,29 @@
 .item {
     background-color: transparent;
     display: inline-block;
-    margin-top: 250px;
+    margin-top: 130px;
+    margin-left:75px;
+    margin-right:75px;
+    padding: 15px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(255, 173, 50, 0.517);
+    outline: none;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-size: 16px;
+    color: #D3D3D3;
+}
+
+.container1 {
+    text-align:center;
+}
+
+.item1 {
+    background-color: transparent;
+    display: inline-block;
+    margin-top: 70px;
     margin-left:75px;
     margin-right:75px;
     padding: 15px;
@@ -54,12 +76,13 @@ body {
       color: rgba(255, 173, 50, 0.517);
   }
 
-  
-
-
 
 
 .item:hover {
+    color:rgba(255, 173, 50, 0.517);
+}
+
+.item1:hover {
     color:rgba(255, 173, 50, 0.517);
 }
 
