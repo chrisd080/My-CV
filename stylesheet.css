@@ -546,13 +546,13 @@
 
 	.referrals-body #referrals-table {
 		width: 100%;
+		grid-gap: 5px;
 		margin: 0;
 	}
 
 	.referrals-body #referrals td {
 		padding-bottom: 20px;
 		text-align: center;
-		gap: 5px;
 		width: 25%;
 	}
 
