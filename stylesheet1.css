@@ -460,6 +460,7 @@
 		border: medium solid white;
 		border-width: 10px 0 10px 10px;
 		border-color: transparent transparent transparent rgba(255, 173, 50, 0.517);
+		word-spacing: 5px;
 	}
 
 	.right::before {
