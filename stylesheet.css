@@ -546,7 +546,6 @@
 
 	.referrals-body #referrals-table {
 		width: 100%;
-		grid-gap: 5px;
 		margin: 0;
 	}
 
@@ -555,6 +554,14 @@
 		text-align: center;
 		width: 25%;
 	}
+
+.referrals-body #referrals td:first-child {
+    padding-right: 10px; /* Adjust the value as needed for your desired gap */
+}
+
+.referrals-body #referrals td:last-child {
+    padding-left: 10px; /* Adjust the value as needed for your desired gap */
+}
 
 /*End Referrals*/
 
