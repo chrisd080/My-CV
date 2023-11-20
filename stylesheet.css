@@ -544,6 +544,17 @@
 		margin: 0;
 	}
 
+	.referrals-body #referrals-table {
+		width: 100%;
+		margin: 0;
+	}
+
+	.referrals-body #referrals td {
+		padding-bottom: 20px;
+		text-align: center;
+		width: 25%;
+	}
+
 /*End Referrals*/
 
 
