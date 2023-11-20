@@ -552,16 +552,10 @@
 	.referrals-body #referrals td {
 		padding-bottom: 20px;
 		text-align: center;
+		padding-left: 10px;
+		padding-right: 10px;
 		width: 25%;
 	}
-
-.referrals-body #referrals td:first-child {
-    padding-right: 10px; /* Adjust the value as needed for your desired gap */
-}
-
-.referrals-body #referrals td:last-child {
-    padding-left: 10px; /* Adjust the value as needed for your desired gap */
-}
 
 /*End Referrals*/
 
