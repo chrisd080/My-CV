@@ -552,9 +552,7 @@
 	.referrals-body #referrals td {
 		padding-bottom: 20px;
 		text-align: center;
-		padding-left: 10px;
-		padding-right: 10px;
-		width: 25%;
+		width: 20%;
 	}
 
 /*End Referrals*/
