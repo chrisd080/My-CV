@@ -555,7 +555,8 @@
             font-size: 24px;
             color: rgba(255, 173, 50, 0.517);
             display: inline; /* Display the quotation marks on the same line */
-            margin-right: 10px;
+            margin-right: 5px;
+	    margin-leftt: 5px;	
         }
 
         .testimonial-text {
