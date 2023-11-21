@@ -527,22 +527,23 @@
 
 /*Referrals*/
 
-	.item7 { height: 100vh; }
+  .testimonial {
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 8px;
+        }
 
-	#referrals-title {
-		margin-top: 33vh;
-		margin-bottom: 50px
-		padding: 0;
-		color: rgba(255, 173, 50, 0.517);
-		text-align: center;
-		font-size: 20px;
-		font-weight: bold;
-	}
+        .quote {
+            float: left;
+            margin-right: 10px;
+            font-size: 24px;
+            color: #A3A3A3;
+        }
 
-	#referrals-body {
-		text-align: justify;
-		margin: 0;
-	}
+        .testimonial-text {
+            overflow: hidden;
+        }
 
 /*End Referrals*/
 
