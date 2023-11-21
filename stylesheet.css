@@ -528,6 +528,21 @@
 
 /*Referrals*/
 
+/* Add these styles to your existing stylesheet or create a new one */
+
+#referrals-title {
+    text-align: center;
+    color: rgba(255, 173, 50, 0.517);
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#referrals-title i {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+
         .testimonial {
             margin-bottom: 20px;
             border: 1px solid #ddd;
