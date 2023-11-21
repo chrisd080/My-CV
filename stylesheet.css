@@ -550,6 +550,14 @@
 	    line-height: 1.6;
         }
 
+
+.testimonial-info {
+    margin-top: 10px; /* Adjust spacing between testimonial text and info */
+    font-size: 14px; /* Adjust font size as needed */
+    color: #A3A3A3; /* Adjust color as needed */
+}
+
+
 /*End Referralss*/
 
 
