@@ -239,9 +239,10 @@
 		color: #D3D3D3;
 	}
 
+
 .navigation-menu-button,
 .modal-content button {
-    transition: opacity 0.3s ease-in-out; /* Add a transition effect on opacity */
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out; /* Add transitions for opacity and transform */
     cursor: pointer;
 }
 
@@ -250,7 +251,12 @@
     opacity: 0.8; /* Change the opacity on hover */
 }
 
+.navigation-menu-button:active,
+.modal-content button:active {
+    transform: scale(0.95); /* Add a scale transform on active/clicked state */
+}
 
+/* Additional styles for the "more about me" button */
 .navigation-menu-button {
     background-color: #4CAF50;
     color: white;
@@ -267,6 +273,7 @@
 .navigation-menu-button:hover {
     background-color: #45a049; /* Change the background color on hover */
 }
+
 
 
 	/*Navigation Menu*/
