@@ -1,8 +1,16 @@
 /* Add these styles to your existing stylesheet or create a new one */
 
-body {
-    margin: 0; /* Remove default body margin */
-}
+	body {
+		background-image: url("yessir.jpg");
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background-attachment: fixed;
+		padding: 100px 100px 100px 100px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:16px;
+		color: #A3A3A3;
+		font-variant: small-caps;
+	}
 
 header {
     text-align: center;
