@@ -15,7 +15,7 @@
 header {
     text-align: center;
     padding: 20px;
-    background-color: #f0f0f0; /* Add a background color for header visibility */
+	color: #A3A3A3; 
 }
 
 .button {
@@ -26,7 +26,7 @@ header {
 }
 
 .button1 {
-    background-color: #4CAF50;
+    background-color: #A3A3A3;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -45,7 +45,7 @@ header {
 }
 
 .item, .item1 {
-    background-color: #45a049;
+    background-color: #A3A3A3;
     color: white;
     padding: 15px;
     margin: 10px;
