@@ -139,6 +139,12 @@
 		padding-right: 10px;
 	}
 
+
+.modal-content .close {
+    color: #A3A3A3;
+}
+
+
 	.close:hover {
 		color: #D3D3D3;
 		text-decoration: none;
